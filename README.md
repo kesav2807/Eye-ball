@@ -1,35 +1,17 @@
-# Eye-ball
-Animated Eyes
-This HTML document creates a simple and amusing animated eyes effect using CSS and JavaScript.
+# Eye-Ball_moving
 
-How to Use
-Open the HTML file (index.html) in a web browser.
+## Description:
 
-Two eyes with pupils will appear on the screen.
+This HTML document creates a simple interactive face with moving eyes that follow the user's mouse cursor. The face consists of a yellow circle with two eyes, and the eyes' black pupils follow the mouse movement.
 
-Move your mouse to see the pupils follow your cursor.
+## How to run the code:
 
-Files
-index.html: Contains the HTML structure for the animated eyes. It includes a style tag with CSS for styling and a script tag with JavaScript for the interactive effect.
-Styles (styles.css)
-Body Styles: Sets the margin, padding, and background color for the webpage.
+step1:Save the HTML file with html extension,
 
-.eyes Styles: Positions the eyes at the center of the screen.
+step2:Click the "Go Live" button.A new browser window will open, displaying EyeBall moving.
 
-.eye Styles: Styles for each eye, including size, background color, margin, and border radius.
+## Future Enhancement:
 
-.ball Styles: Styles for the pupils, including size, position, background color, and border.
+1)Add facial expressions or animations to make the interactive face more engaging.
 
-JavaScript (script.js)
-onmousemove Event: The document.onmousemove event triggers a function each time the mouse is moved.
-
-Pupil Movement: Calculates the percentage position of the mouse cursor within the window and adjusts the position and transformation of the pupils accordingly.
-
-Notes
-The eyes follow the movement of the mouse cursor in a creative and entertaining way.
-
-You can modify the CSS styles and experiment with different sizes, colors, and animations.
-
-This project is a fun demonstration of simple animation and interactivity using HTML, CSS, and JavaScript.
-
-Feel free to explore, modify, and integrate this code into your projects for creative and interactive elements!
+2) Implement user interaction, such as clicking on the eyes to trigger actions or reactions.
